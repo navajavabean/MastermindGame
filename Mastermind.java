@@ -18,9 +18,8 @@ public class Mastermind {
      */
     private static void printIdentification()
     {
-        System.out.println("### Assignment 5: Mastermind   Author: Nava Meadi ###");
-        System.out.println("### Course/Section - CPSC1150-6 ###");
-        System.out.println("### St.# - 100320572 ###");
+        System.out.println("### Mastermind   Author: Nava M ###");
+        System.out.println("### St.# -  ###");
         System.out.println("### Purpose: To attempt to guess a computer generated array ### \n");
     } // printIdentification
 
